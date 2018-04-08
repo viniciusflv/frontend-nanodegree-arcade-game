@@ -5,5 +5,5 @@ Students should use this [rubric](https://review.udacity.com/#!/projects/2696458
 
 For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
 
-HOW TO START - Open the index.html file to load the game
-INSTRUCTIONS - To play this game you just have to use your arrow keys to reach the river without touching the bugs
+HOW TO START - Open the index.html file to load the game.
+INSTRUCTIONS - To play this game you just have to use your arrow keys to reach the river without touching the bugs.
